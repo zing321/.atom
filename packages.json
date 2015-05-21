@@ -1,0 +1,25 @@
+{
+  "description": "This file is only used to figure out which packages to install",
+  "packages": [
+    "angularjs",
+    "atom-ternjs",
+    "atom-zeal",
+    "autocomplete-plus-python-jedi",
+    "color-picker",
+    "docblockr",
+    "editorconfig",
+    "file-icons",
+    "fold-comments",
+    "git-plus",
+    "jscs-fixer",
+    "line-ending-converter",
+    "linter",
+    "linter-jscs",
+    "linter-jshint",
+    "linter-pep8",
+    "merge-conflicts",
+    "minimap",
+    "omnisharp-atom",
+    "tidy-markdown"
+  ]
+}

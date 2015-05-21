@@ -1,0 +1,47 @@
+"*":
+  "exception-reporting":
+    userId: "8cbd46e1-2166-5154-f348-4f4ff0e0d611"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "linter-pylint"
+    ]
+  linter:
+    subtleLinterErrors: [
+      "jscs"
+      "jshint"
+    ]
+  "linter-pylint": {}
+  "linter-jshint": {}
+  "linter-jscs":
+    preset: "google"
+    verbose: true
+    onlyConfig: true
+    messageType: "warning"
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 2
+    scrollPastEnd: true
+    fontSize: 12
+  minimap:
+    scrollAnimationDuration: 100
+    scrollAnimation: true
+  "file-icons":
+    onChanges: true
+  "autocomplete-plus": {}
+  "linter-pep8": {}
+  "merge-conflicts":
+    gitPath: "C:\\Program Files (x86)\\Git\\bin\\git.exe"
+  "color-picker":
+    automaticReplace: true
+  "git-plus": {}
+  tabs:
+    usePreviewTabs: true
+    enableVcsColoring: true
+  "atom-ternjs": {}
+".ini.source":
+  editor:
+    scrollPastEnd: false
