@@ -46,6 +46,7 @@ function partialUpdate(packages, _current) {
 }
 
 function apmInstall(packageName, callback) {
+  console.log('installing ' + packageName);
   exec('apm install ' + packageName, function(err, stdout, stderr) {
     if (err) throw err;
     console.log(stdout);
