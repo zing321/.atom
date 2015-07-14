@@ -2,7 +2,6 @@
   "description": "This file is only used to figure out which packages to install",
   "packages": [
     "angularjs",
-    "atom-ternjs",
     "atom-zeal",
     "autocomplete-plus-python-jedi",
     "color-picker",
@@ -19,7 +18,6 @@
     "linter-pep8",
     "merge-conflicts",
     "minimap",
-    "omnisharp-atom",
     "tidy-markdown"
   ]
 }
