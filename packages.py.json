@@ -1,0 +1,7 @@
+{
+  "description": "Python Atom tools",
+  "packages": [
+    "linter-pep8",
+    "autocomplete-plus-python-jedi",
+  ]
+}

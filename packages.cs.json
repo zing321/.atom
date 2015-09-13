@@ -1,0 +1,6 @@
+{
+  "description": "C# Atom tools",
+  "packages": [
+    "omnisharp-atom",
+  ]
+}

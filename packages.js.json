@@ -1,0 +1,10 @@
+{
+  "description": "JavaScript Atom tools",
+  "packages": [
+    "linter-jscs",
+    "linter-jshint",
+    "jscs-fixer",
+    "angularjs",
+    "atom-ternjs",
+  ]
+}
